@@ -4,11 +4,7 @@ class ZAFS definition
   create public .
 
 public section.
-protected section.
-private section.
-ENDCLASS.
 
-
-
+endclass..
 CLASS ZAFS IMPLEMENTATION.
 ENDCLASS.
